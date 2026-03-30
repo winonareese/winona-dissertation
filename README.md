@@ -24,3 +24,5 @@ There also needs to have a requirements and env file alongside the dataset.
 The env file invovles the API keys for OpenAI, Anthropic and Tavily but will not be uploaded onto Github
 
 I have also attached a questions.txt with the rouge responses for each questions
+
+It also includes unittests and research_tools which are used in AgenticAI in the Part 3 sections
