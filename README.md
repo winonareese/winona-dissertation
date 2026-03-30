@@ -10,8 +10,10 @@ I have split it so each part can be seen separately it is split into
 - Part 1B- Handling Hypothesis Question
 - Part 2 (OpenAi)- Using an LLM to do a Literature Review
 - Part 2 (Anthropic)- Using an LLM to do a Literature Review
-- Part 3 (OpenAI)- Using an LLM to create an MLP
-- Part 3 (Anthropic)- Using an LLM to create an MLP
+- Part 3A (OpenAI)- Using an LLM to create an MLP
+- Part 3B (OpenAI)- Using an LLM to create an MLP
+- Part 3A (Anthropic)- Using an LLM to create an MLP
+- Part 3B (Anthropic)- Using an LLM to create an MLP
 - Overall Summary
 - Evaluation (OpenAI)
 - Evaluation (Anthropic)
