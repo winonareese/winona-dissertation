@@ -1,0 +1,23 @@
+1. `Does a large PR Interval and high Cholesterol affect likelihood of T2DM category?`
+
+Overall, a high PR interval and elevated cholesterol may be linked to Type 2 Diabetes through underlying metabolic and vascular mechanisms, but they are not reliable independent predictors because both are influenced by many confounding factors.
+
+
+2. `Does Heart Attack history and Age-Related Macular Degeneration affect likelihood of T2DM category?`
+
+Overall, a history of heart attack and age-related macular degeneration may be associated with Type 2 Diabetes, but they are more likely consequences or related comorbidities than reliable independent predictors of T2DM.
+
+
+3. `Does high level s of Blood Glucose affect likelihood of T2DM category?`
+
+Overall, high blood glucose is strongly associated with Type 2 Diabetes and is central to its diagnosis, but on its own it is not fully specific to T2DM because hyperglycaemia can occur across diabetes more broadly.
+
+
+4. `Does long hours of Sleep affect likelihood of T2DM category?`
+
+Overall, long sleep duration alone is not a reliable independent predictor of Type 2 Diabetes, but sleep disturbance and related conditions such as obesity and sleep apnoea may be associated with increased T2DM risk.
+
+
+5. `Does high Glucose and Retinal Vascular Occlusion ("Strokes") affect likelihood of T2DM category?`
+
+Overall, high glucose and retinal vascular occlusion may be associated with diabetes-related vascular damage, but they are not reliable independent indicators of Type 2 Diabetes specifically, as these features reflect diabetes more broadly and may vary by the type of occlusion involved.
