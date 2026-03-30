@@ -14,7 +14,8 @@ I have split it so each part can be seen separately it is split into
 - Part 3B (OpenAI)- Using an LLM to create an MLP
 - Part 3A (Anthropic)- Using an LLM to create an MLP
 - Part 3B (Anthropic)- Using an LLM to create an MLP
-- Overall Summary
+- Overall Summary (OpenAI)
+- Overall SUmmary (Anthropic)
 - Evaluation (OpenAI)
 - Evaluation (Anthropic)
 
